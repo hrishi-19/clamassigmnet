@@ -1,0 +1,32 @@
+export const dateData=[
+    {
+        date:12,
+        month:'June',
+        active:true
+    },
+    {
+        date:18,
+        month:'June',
+        active:false
+    },
+    {
+        date:20,
+        month:'June',
+        active:false
+    },
+    {
+        date:22,
+        month:'June',
+        active:false
+    },
+    {
+        date:26,
+        month:'June',
+        active:false
+    },
+    {
+        date:28,
+        month:'June',
+        active:false
+    },
+]
