@@ -3,7 +3,7 @@ import React from 'react'
 
 function CircleProgress({value}) {
     return (
-        <CircularProgress value={value} color='purple.500' size='100px'>
+        <CircularProgress value={value} color='purple.500' size='100px' capIsRound trackColor='#00003'>
             <CircularProgressLabel
                 bg='#ff535e' w="60px" h="60px"
                 fontSize='md' borderRadius='full'
